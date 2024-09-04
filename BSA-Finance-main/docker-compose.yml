@@ -1,0 +1,22 @@
+services:
+  web:
+    build: ./web
+    ports:
+      - 3000:3000
+    volumes:
+      - ./web:/app
+    networks:
+      - api-web
+  api:
+    build: ./api
+    ports:
+      - 8000:8000
+    volumes:
+      - ./api:/app
+    networks:
+      - api-web
+networks:
+  api-web:
+    driver: bridge
+  db-api:
+    driver: bridge

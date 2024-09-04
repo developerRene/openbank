@@ -1,0 +1,120 @@
+https://api.itau/open-banking/products-services/v1/
+ok
+
+https://api.bradesco.com/Bradesco_financiamentos/open-banking/products-services/v1/
+SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+
+https://opendata.api.bb.com.br/open-banking/products-services/v1/
+Requisição cross-origin bloqueada: A diretiva Same Origin (mesma origem) não permite a leitura do recurso remoto em https://opendata.api.bb.com.br/open-banking/products-services/v1/personal-loans (motivo: falta cabeçalho 'Access-Control-Allow-Origin' no CORS). Código de status: 200.
+TypeError: NetworkError when attempting to fetch resource.
+
+# Parece ter funcionado, apesar do erro.
+
+https://obbr.745.cipbanfico.com/open-banking/products-services/v1/
+Cannot GET /open-banking/products-services/v1/personal-loans
+
+https://api.bradesco.com/bradesco/open-banking/products-services/v1/
+[HTTP/1.1 500  529ms]
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Body>
+        <soapenv:Fault>
+            <faultcode>soapenv:Server</faultcode>
+            <faultstring>Policy Falsified</faultstring>
+            <faultactor>https://api.bradesco.com/bradesco/open-banking/products-services/v1/personal-loans</faultactor>
+            <detail>
+                <l7:policyResult status="Assertion Falsified" xmlns:l7="http://www.layer7tech.com/ws/policy/fault"/>
+            </detail>
+        </soapenv:Fault>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+https://api.bradesco.com/Next/open-banking/products-services/v1/
+[HTTP/1.1 500  580ms]
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Body>
+        <soapenv:Fault>
+            <faultcode>soapenv:Server</faultcode>
+            <faultstring>Policy Falsified</faultstring>
+            <faultactor>https://api.bradesco.com/Next/open-banking/products-services/v1/personal-loans</faultactor>
+            <detail>
+                <l7:policyResult status="Assertion Falsified" xmlns:l7="http://www.layer7tech.com/ws/policy/fault"/>
+            </detail>
+        </soapenv:Fault>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+https://banking-openfinance.rico.com.vc/open-banking/products-services/v1/
+ok
+
+https://banking-openfinance.xpi.com.br/open-banking/products-services/v1/
+ok
+
+https://matls-banking-openfinance-azimutbrasil.xpi.com.br/open-banking/products-services/v1/
+Requisição cross-origin bloqueada: A diretiva Same Origin (mesma origem) não permite a leitura do recurso remoto em https://matls-banking-openfinance-azimutbrasil.xpi.com.br/open-banking/products-services/v1/personal-loans (motivo: falta cabeçalho 'Access-Control-Allow-Origin' no CORS). Código de status: 401.
+TypeError: NetworkError when attempting to fetch resource.
+
+https://api.safra.com.br/open-banking/products-services/v1/
+[HTTP/2 504  30208ms]
+errors	[ 
+    { 
+        code: "504",
+        title: "Falha inesperada.",
+        detail: "Ocorreu um erro inesperado. Por favor, tente novamente."
+    }
+]
+meta: { totalRecords: 1, totalPages: 1, requestDateTime: "2024-04-19T19:42:31Z" }
+
+# De alguma forma, o Safra ainda aparece na pesquisa.
+
+https://api.openfinance.bnb.gov.br/open-banking/products-services/v1/
+ok
+
+https://api-bmg.bancobmg.com.br/open-banking/products-services/v1/
+ok
+
+https://openbanking.api.santander.com.br/open-banking/products-services/v1/
+ok
+
+https://opendata.api.nubank.com.br/open-banking/products-services/v1/
+Requisição cross-origin bloqueada: A diretiva Same Origin (mesma origem) não permite a leitura do recurso remoto em https://opendata.api.nubank.com.br/open-banking/products-services/v1/personal-loans (motivo: falta cabeçalho 'Access-Control-Allow-Origin' no CORS). Código de status: 404.
+TypeError: NetworkError when attempting to fetch resource.
+
+https://api-openfinance.original.com.br/open-banking/products-services/v1/
+ok
+
+https://btgpactualwm.openbanking.btgpactual.com/open-banking/products-services/v1/
+404
+
+# Alguma coisa do BTG aparece na pesquisa, apesar do erro em todos os testes.
+
+https://btgmais.openbanking.btgpactual.com/open-banking/products-services/v1/
+404
+
+# Alguma coisa do BTG aparece na pesquisa, apesar do erro em todos os testes.
+
+https://btgmaisbusiness.openbanking.btgpactual.com/open-banking/products-services/v1/
+404
+
+# Alguma coisa do BTG aparece na pesquisa, apesar do erro em todos os testes.
+
+https://btgpactualdigital.openbanking.btgpactual.com/open-banking/products-services/v1/
+404
+
+# Alguma coisa do BTG aparece na pesquisa, apesar do erro em todos os testes.
+
+https://btgpactual.openbanking.btgpactual.com/open-banking/products-services/v1/
+404
+
+# Alguma coisa do BTG aparece na pesquisa, apesar do erro em todos os testes.
+
+https://api.openbanking.caixa.gov.br/open-banking/products-services/v1/
+Requisição cross-origin bloqueada: A diretiva Same Origin (mesma origem) não permite a leitura do recurso remoto em https://api.openbanking.caixa.gov.br/open-banking/products-services/v1/personal-loans (motivo: falha na requisição CORS). Código de status: (null).
+TypeError: NetworkError when attempting to fetch resource.
+
+https://api-openbanking.bndes.gov.br/open-banking/products-services/v1/
+404 Not Found
+
+https://api-openbanking.bvopen.com.br/open-banking/products-services/v1/
+Requisição cross-origin bloqueada: A diretiva Same Origin (mesma origem) não permite a leitura do recurso remoto em https://api-openbanking.bvopen.com.br/open-banking/products-services/v1/personal-loans (motivo: falta cabeçalho 'Access-Control-Allow-Origin' no CORS). Código de status: 200.
+TypeError: NetworkError when attempting to fetch resource.

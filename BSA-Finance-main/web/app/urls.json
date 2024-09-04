@@ -1,0 +1,146 @@
+[
+    {
+        "organization": "FIN. ITAU CBD CFI",
+        "url": "https://api.itau/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO BRADESCO FINANC. S.A.",
+        "url": "https://api.bradesco.com/Bradesco_financiamentos/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO ITAUBANK S.A.",
+        "url": "https://api.itau/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO DO BRASIL S.A.",
+        "url": "https://opendata.api.bb.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO CITIBANK S.A.",
+        "url": "https://obbr.745.cipbanfico.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO CITIBANK S.A.",
+        "url": "https://obbr.745.cipbanfico.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO CITIBANK S.A.",
+        "url": "https://obbr.745.cipbanfico.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO CITIBANK S.A.",
+        "url": "https://obbr.745.cipbanfico.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO ITAUCARD S.A.",
+        "url": "https://api.itau/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO ITAUCARD S.A.",
+        "url": "https://api.itau/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO ITAUCARD S.A.",
+        "url": "https://api.itau/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO BRADESCO SA",
+        "url": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO BRADESCO SA",
+        "url": "https://api.bradesco.com/bradesco/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO BRADESCO SA",
+        "url": "https://api.bradesco.com/Next/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO XP S.A.",
+        "url": "https://banking-openfinance.rico.com.vc/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO XP S.A.",
+        "url": "https://banking-openfinance.xpi.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO XP S.A.",
+        "url": "https://matls-banking-openfinance-azimutbrasil.xpi.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO SAFRA S.A.",
+        "url": "https://api.safra.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO DO NORDESTE DO BRASIL S.A.",
+        "url": "https://api.openfinance.bnb.gov.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO BMG S.A.",
+        "url": "https://api-bmg.bancobmg.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO SANTANDER (BRASIL) S.A.",
+        "url": "https://openbanking.api.santander.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "NU PAGAMENTOS S.A. - INSTITUI\u00c7\u00c3O DE PAGAMENTO",
+        "url": "https://opendata.api.nubank.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO ORIGINAL",
+        "url": "https://api-openfinance.original.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO BTG PACTUAL S.A.",
+        "url": "https://btgpactualwm.openbanking.btgpactual.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO BTG PACTUAL S.A.",
+        "url": "https://btgmais.openbanking.btgpactual.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO BTG PACTUAL S.A.",
+        "url": "https://btgmaisbusiness.openbanking.btgpactual.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO BTG PACTUAL S.A.",
+        "url": "https://btgpactualdigital.openbanking.btgpactual.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BANCO BTG PACTUAL S.A.",
+        "url": "https://btgpactual.openbanking.btgpactual.com/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO DO ESTADO DO RS S.A.",
+        "url": "https://openbanking.banrisul.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "CAIXA ECONOMICA FEDERAL",
+        "url": "https://api.openbanking.caixa.gov.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BNDES",
+        "url": "https://api-openbanking.bndes.gov.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "ITAU CV S.A.",
+        "url": "https://api.itau/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO VOTORANTIM S.A.",
+        "url": "https://api-openbanking.bvopen.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO VOTORANTIM S.A.",
+        "url": "https://api-openbanking.bvopen.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO VOTORANTIM S.A.",
+        "url": "https://api-openbanking.bvopen.com.br/open-banking/products-services/v1/"
+    },
+    {
+        "organization": "BCO VOTORANTIM S.A.",
+        "url": "https://api-openbanking.bvopen.com.br/open-banking/products-services/v1/"
+    }
+]
